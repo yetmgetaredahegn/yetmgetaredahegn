@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetmgetaredahegn" alt="yetmgetaredahegn" /></a> </p>
 
-- 🔭 I’m currently learning **Software Engineering**
+- 🔭 I’m currently learning Software Engineering at Adama Science and Technology University
 
 - 🌱 I’m currently learning **JavaScript**
 
