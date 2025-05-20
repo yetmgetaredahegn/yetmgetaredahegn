@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yetmgeta Redahegn</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yetmgetaredahegn&label=Profile%20views&color=0e75b6&style=flat" alt="yetmgetaredahegn" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently learning Software Engineering at Adama Science and Technology University
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning backend
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **backend projects**
 
-- 💬 Ask me about **frontend stuff**
+- 💬 Ask me about **backend stuff**
 
 - 📫 How to reach me **yetmgetaredahegnkassaye@gmail.com**
 
