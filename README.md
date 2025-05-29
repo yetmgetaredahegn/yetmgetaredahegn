@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yetmgeta Redahegn</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yetmgetaredahegn&label=Profile%20views&color=0e75b6&style=flat" alt="yetmgetaredahegn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yetmgeta-tech&label=Profile%20views&color=0e75b6&style=flat" alt="yetmgeta-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetmgetaredahegn" alt="yetmgetaredahegn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yetmgeta-tech" alt="yetmgeta-tech" /></a> </p>
 
 - 🔭 I’m currently learning Software Engineering at Adama Science and Technology University
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **backend stuff**
 
-- 📫 How to reach me **yetmgetaredahegnkassaye@gmail.com**
+- 📫 How to reach me **yetmgeta.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
